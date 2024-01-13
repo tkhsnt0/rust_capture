@@ -1,10 +1,11 @@
 # rust_capture
 Packet capture in rust
-build
+
+[build]
 ```
 cargo build
 ```
-execute
+[execute]
 ```
 ./target/debug/capture [interface]
 ```
