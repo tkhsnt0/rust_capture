@@ -9,4 +9,4 @@ cargo build
 ```
 ./target/debug/capture [interface]
 ```
-The specified interface name is, for example, eth0.
+The specified interface name are, for example, lo, eth0, and so on.
