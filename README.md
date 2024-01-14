@@ -1,6 +1,7 @@
 # rust_capture
 Packet capture in rust. 
 
+# how to use
 [build]
 ```
 cargo build
